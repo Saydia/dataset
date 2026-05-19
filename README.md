@@ -1,4 +1,4 @@
-# ML Research Dataset Collection
+# Research Dataset Collection
 
 This repository contains multiple datasets used for machine learning and deep learning research projects.
 
