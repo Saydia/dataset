@@ -1,1 +1,0 @@
-Narrow Brown Leaf Spot
